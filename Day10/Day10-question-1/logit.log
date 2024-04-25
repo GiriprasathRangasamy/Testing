@@ -1,0 +1,8 @@
+2024-04-25 23:52:33 INFO  AppTest:40 - going to website moneycontrol
+  2024-04-25 23:53:29 WARN  AppTest:50 - Waiting for web to load
+  2024-04-25 23:53:29 INFO  AppTest:64 - checking the website contains 'Reliance Industries Ltd'
+  2024-04-25 23:59:13 INFO  AppTest:42 - going to website moneycontrol
+  2024-04-25 23:59:39 WARN  AppTest:52 - Waiting for web to load
+  2024-04-25 23:59:39 INFO  AppTest:66 - checking the website contains 'Reliance Industries Ltd'
+  2024-04-25 23:59:50 INFO  AppTest:102 - Printing the output
+  
