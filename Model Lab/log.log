@@ -1,0 +1,7 @@
+2024-05-02 14:30:03 INFO  AppTest:49 - Going to opentable website
+  2024-05-02 14:30:04 INFO  AppTest:58 - Get place from xlxs
+  2024-05-02 14:30:06 INFO  AppTest:73 - screen shot taken
+  2024-05-02 14:30:06 WARN  AppTest:85 - switch to next tab
+  2024-05-02 14:30:09 INFO  AppTest:103 - Make a reservation is successful
+  2024-05-02 14:30:09 INFO  AppTest:107 - Sign to website
+  
